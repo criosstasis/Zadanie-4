@@ -40,10 +40,10 @@
 - AND
 ![Иллюстрация к проекту](https://github.com/criosstasis/Zadanie-4/blob/main/perc2.PNG)
 Вычислениям AND персептрон обучается медленнее, за 6-7 эпох.
-- XOR
+- NAND
 ![Иллюстрация к проекту](https://github.com/criosstasis/Zadanie-4/blob/main/perc3.PNG)
 Этим вычилениям персептрон обучается с тем же количеством эпох, что и AND, то есть за 6-7.
-- NAND
+- XOR
 ![Иллюстрация к проекту](https://github.com/criosstasis/Zadanie-4/blob/main/perc4.PNG)
 Данным вычислением персептрон так и не смог обучиться.
 
